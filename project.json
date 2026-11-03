@@ -1,0 +1,19 @@
+{
+  "overview": "Página de vendas do Simulado Completo para a Guarda Municipal de Imperatriz-MA, com 300 questões divididas em quatro matérias e checkout de pagamento.",
+  "features": [
+    "Página de vendas com hero, benefícios e prova social",
+    "Grade das 300 questões: 60 Língua Portuguesa, 50 Raciocínio Lógico, 50 Informática e 140 Conhecimentos Específicos",
+    "Seções de como usar, oferta digital e FAQ em acordeão",
+    "Botões de compra com preço R$ 19,90 levando ao checkout",
+    "Rodapé com avisos legais"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "vendas",
+    "concurso",
+    "simulado",
+    "educacao",
+    "pdf"
+  ],
+  "last_updated": "2026-11-03T03:41:16.279Z"
+}
