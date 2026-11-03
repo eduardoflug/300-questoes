@@ -64,7 +64,7 @@ Generous section gaps (`py-16 md:py-24`), max-w-6xl container, content grouped i
 
 - Dark mode is primary; keep AA+ contrast on every text/surface pair
 - Tokens only — no raw hex, rgb, or arbitrary color classes in components
-- Portuguese (BR) copy; price always R$ 19,90; no PDF generation, member area, or interactive quiz UI
+- Portuguese (BR) copy; price always R$ 14,90; no PDF generation, member area, or interactive quiz UI
 
 ## Signature Detail
 
