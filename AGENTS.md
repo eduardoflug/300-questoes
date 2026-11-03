@@ -3,7 +3,7 @@
 ## User Preferences
 
 - Idioma português (Brasil)
-- Preço de venda R$ 19,90
+- Preço de venda R$ 14,90
 - Entrega como PDF
 - Pagamento processado via Kiwify
 - Paleta escura (azul-marinho) com destaque em verde/amarelo e alto contraste
@@ -12,7 +12,7 @@
 
 - Página de vendas com 300 questões divididas em Língua Portuguesa (60), Raciocínio Lógico (50), Informática (50) e Conhecimentos Específicos (140)
 - Material entregue em PDF para venda
-- Preço de R$ 19,90 com checkout de pagamento
+- Preço de R$ 14,90 com checkout de pagamento
 - Gabarito ao final de cada bloco de matéria
 - FAQ, seção de benefícios, como usar e rodapé com avisos legais
 
